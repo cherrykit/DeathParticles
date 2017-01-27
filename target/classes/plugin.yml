@@ -1,0 +1,5 @@
+name: DeathParticles
+main: me.cherrykit.DeathParticles
+version: 1.0
+
+commands:
